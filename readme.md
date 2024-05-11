@@ -9,12 +9,17 @@
 - [Documentation](#documentation)
 - [License](#license)
 
+
 ## Project Overview
 <details>
 <summary>Click to expand!</summary>
 This project uses advanced AI components to efficiently handle complex data querying and manipulation tasks. It is designed to leverage multiple language models (LLMs), integrated using the Retriever-Answer Generator (RAG) framework, to enhance the processing and understanding of large datasets.
+</details>
 
 ### Key Features
+<details>
+<summary>Click to expand!</summary>
+
 - **Advanced Data Querying**: Utilizes LlamaIndex for sophisticated data retrieval, Document querying and processing, ensuring quick and accurate access to the necessary information.
 - **Multi-LLM Integration**: Incorporates multiple language models that work together to analyze and process data, providing a comprehensive understanding of text-based information.
 - **Dynamic Tool Selection**: Equipped with various tools, the system intelligently selects the most appropriate tool based on the specific use case scenario, optimizing performance and results.
@@ -23,13 +28,14 @@ This project uses advanced AI components to efficiently handle complex data quer
 - **Scalable architecture**: suitable for expanding with more features or models.
 
 ### Models used:
+<details>
+<summary>Click to expand!</summary>
 - **LlamaIndex**:  indexing and retrieval capabilities for llm applications.
 - **Ollama**: A powerful language model for understanding and generating human-like 
 text.
 - **RAG**: Retrieval Augmented Generation.
 - **Multi-LLM**: Utilizes multiple language models to enhance processing power and accuracy.
 </details>
-
 
 
 ## Documentation
