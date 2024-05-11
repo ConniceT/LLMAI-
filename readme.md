@@ -26,6 +26,7 @@ This project uses advanced AI components to efficiently handle complex data quer
 - **Automated Code Generation**: Feeds data, including code files, to the agent, which then generates relevant code snippets or entire programs based on the input provided.
 - **Result Persistence**: Outputs are systematically parsed and saved to a designated output folder, making it easy to access and utilize generated data.
 - **Scalable architecture**: suitable for expanding with more features or models.
+</details>
 
 ### Models used:
 <details>
@@ -41,7 +42,6 @@ text.
 ## Documentation
 <details>
 <summary>Click to expand!</summary>
-
 For more detailed information about how to use this project and the technologies involved, visit the following links:
 
 - [LlamaIndex Documentation](https://llamaindex.example.com/docs)
