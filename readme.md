@@ -1,10 +1,11 @@
 # AI Agent with LlamaIndex, Ollama, and Multi-LLM
 
- AI Agent which utilizes advanced tools like LlamaIndex, Ollama, and integrates Multi-LLM to create AI-driven tool that read code and saves output to folder directory. 
+ AI Agent build on LlamaIndex, Ollama, and Multi-LLM 
 
 ## Table of Contents
 - [Project Overview](#project-overview)
-- [Features](#features)
+- [Features](#key-features)
+- [Model Used](#models-used)
 - [Documentation](#documentation)
 - [License](#license)
 
@@ -14,14 +15,14 @@
 This project uses advanced AI components to efficiently handle complex data querying and manipulation tasks. It is designed to leverage multiple language models (LLMs), integrated using the Retriever-Answer Generator (RAG) framework, to enhance the processing and understanding of large datasets.
 
 ### Key Features
-- **Advanced Data Querying**: Utilizes LlamaIndex for sophisticated data retrieval, ensuring quick and accurate access to the necessary information.
+- **Advanced Data Querying**: Utilizes LlamaIndex for sophisticated data retrieval, Document querying and processing, ensuring quick and accurate access to the necessary information.
 - **Multi-LLM Integration**: Incorporates multiple language models that work together to analyze and process data, providing a comprehensive understanding of text-based information.
 - **Dynamic Tool Selection**: Equipped with various tools, the system intelligently selects the most appropriate tool based on the specific use case scenario, optimizing performance and results.
 - **Automated Code Generation**: Feeds data, including code files, to the agent, which then generates relevant code snippets or entire programs based on the input provided.
 - **Result Persistence**: Outputs are systematically parsed and saved to a designated output folder, making it easy to access and utilize generated data.
+- **Scalable architecture**: suitable for expanding with more features or models.
 
-
-Models used:
+### Models used:
 - **LlamaIndex**:  indexing and retrieval capabilities for llm applications.
 - **Ollama**: A powerful language model for understanding and generating human-like 
 text.
@@ -29,15 +30,6 @@ text.
 - **Multi-LLM**: Utilizes multiple language models to enhance processing power and accuracy.
 </details>
 
-
-
-## Features
-<details>
-<summary>Click to expand!</summary>
-- Document querying and processing.
-- AI models for enhanced data interpretation.
-- Scalable architecture suitable for expanding with more features or models.
-</details>
 
 
 ## Documentation
@@ -53,6 +45,6 @@ For more detailed information about how to use this project and the technologies
 
 
 ## Contact
-If you want to get in touch, email me at [connicet@gmail.com](mailto:connicet@gmail.com).
+Get in touch at [connicet@gmail.com](mailto:connicet@gmail.com).
 
 
