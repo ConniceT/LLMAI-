@@ -64,7 +64,7 @@ def info():
     return {
         'name': 'Connice Trimmingham',
         'title': 'Software Engineer',
-        'location': 'In the Cloud',
+        'location': 'In the Cloud building next gen AI',
         'linkedin': 'https://www.linkedin.com/in/connice-trimmingham-7b9131158/',
         'github': 'https://github.com/ConniceT',
         'blog': 'https://medium.com/@connicet'
