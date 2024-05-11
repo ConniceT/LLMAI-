@@ -57,7 +57,7 @@ For more detailed information about how to use this project and the technologies
 ## Contact
 Get in touch at [connicet@gmail.com](mailto:connicet@gmail.com).
 
-For more about me, see my profile details below:
+For more info about me, see my profile details below:
 
 ```python
 def info():
