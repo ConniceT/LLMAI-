@@ -1,4 +1,4 @@
-![Language Learning Machine Visualization](image/llmpic.png)
+![Language Learning Machine Visualization](image/readme.png)
 
 # AI Agent with LlamaIndex, Ollama, and Multi-LLM
 
