@@ -31,12 +31,17 @@ This project uses advanced AI components to efficiently handle complex data quer
 ### Models used:
 <details>
 <summary>Click to expand!</summary>
-- **LlamaIndex**:  indexing and retrieval capabilities for llm applications.
-- **Ollama**: A powerful language model for understanding and generating human-like 
-text.
-- **RAG**: Retrieval Augmented Generation.
-- **Multi-LLM**: Utilizes multiple language models to enhance processing power and accuracy.
+
+- :books: **LlamaIndex**: Indexing and retrieval capabilities for LLM applications.
+- :brain: **Ollama**: A powerful language model for understanding and generating human-like text.
+- :mag_right: **RAG**: Retrieval Augmented Generation.
+- :robot: **Multi-LLM**: Utilizes multiple language models to enhance processing power and accuracy.
 </details>
+
+
+
+
+
 
 
 ## Documentation
@@ -53,4 +58,21 @@ For more detailed information about how to use this project and the technologies
 ## Contact
 Get in touch at [connicet@gmail.com](mailto:connicet@gmail.com).
 
+
+## Contact
+
+If you have any questions, feedback, or want to get in touch, feel free to email me at [connicet@gmail.com](mailto:connicet@gmail.com).
+
+For more about me, see my profile details below:
+
+```python
+def info():
+    return {
+        'name': 'Connice Trimmingham',
+        'title': 'Software Engineer',
+        'location': 'In the Cloud',
+        'linkedin': 'https://www.linkedin.com/in/connice-trimmingham-7b9131158/',
+        'github': 'https://github.com/ConniceT',
+        'blog': 'https://medium.com/@connicet'
+    }
 
