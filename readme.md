@@ -1,3 +1,5 @@
+![Language Learning Machine Visualization](image/llmpic.png)
+
 # AI Agent with LlamaIndex, Ollama, and Multi-LLM
 
  AI Agent build on LlamaIndex, Ollama, and Multi-LLM 
@@ -41,9 +43,6 @@ This project uses advanced AI components to efficiently handle complex data quer
 
 
 
-
-
-
 ## Documentation
 <details>
 <summary>Click to expand!</summary>
@@ -57,11 +56,6 @@ For more detailed information about how to use this project and the technologies
 
 ## Contact
 Get in touch at [connicet@gmail.com](mailto:connicet@gmail.com).
-
-
-## Contact
-
-If you have any questions, feedback, or want to get in touch, feel free to email me at [connicet@gmail.com](mailto:connicet@gmail.com).
 
 For more about me, see my profile details below:
 
