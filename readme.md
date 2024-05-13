@@ -48,9 +48,8 @@ This project uses advanced AI components to efficiently handle complex data quer
 <summary> :arrow_down_small: Click to expand! </summary>
 For more detailed information about how to use this project and the technologies involved, visit the following links:
 
-- [LlamaIndex Documentation](https://llamaindex.example.com/docs)
-- [Ollama Documentation](https://ollama.example.com/docs)
-- [Multi-LLM Documentation](https://multillm.example.com/docs)
+- [LlamaIndex Documentation](https://docs.llamaindex.ai/en/stable/)
+- [Ollama Documentation](https://github.com/ollama/ollama/tree/main/docs)
 </details>
 
 
